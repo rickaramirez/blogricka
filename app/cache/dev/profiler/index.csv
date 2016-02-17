@@ -1,2 +1,10 @@
 47ff5f,::1,GET,http://localhost/blogricka/web/app_dev.php/,1455317628,,200
 209c95,::1,GET,http://localhost/blogricka/web/app_dev.php/,1455683515,,200
+3dcb22,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685294,8e9fae,200
+8e9fae,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685294,,500
+07ef55,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685485,1d41ad,200
+1d41ad,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685485,,500
+5163cb,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685921,42acc1,200
+42acc1,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455685921,,500
+950f8d,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455686071,,200
+9c7250,::1,GET,http://localhost/blogricka/web/app_dev.php/articulos,1455686286,,200
