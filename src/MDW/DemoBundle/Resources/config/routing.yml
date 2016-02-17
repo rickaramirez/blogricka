@@ -1,0 +1,3 @@
+mdw_demo_homepage:
+    path:     /
+    defaults: { _controller: MDWDemoBundle:Default:index }
